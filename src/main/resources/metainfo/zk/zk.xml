@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zk>
+	<config-name>3</config-name>
+	<client-config>
+		<data-handler>
+			<name>3</name> 
+			<link href="~./css/3.css" rel="stylesheet" /> <!-- custom css -->
+			<script src="~./js/lib/3-3rd-party.js" /> <!-- 3rd party Library -->
+            <script src="~./js/3.js" /> <!-- Data Handler Script -->
+		</data-handler>
+	</client-config>
+</zk>
